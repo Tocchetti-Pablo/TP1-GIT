@@ -1,6 +1,7 @@
-# Proyecto de [CV]
 
-Este es el proyecto de [uso de git].
+TP GIT
+Integrantes: 
+Juan Chavez
+Pablo Tocchetti
+Mario Ricotti
 
-## Enlace
-- [Ver mi CV](mario_ricotti.md)
